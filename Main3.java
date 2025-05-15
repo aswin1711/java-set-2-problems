@@ -27,7 +27,7 @@ Explanation - Nandy is the firstName, Raja is the lastName and n is 5, so the ex
 
 
 import java.util.Scanner;
-class Main{
+class Main3{
     public static void main(String[] args){
         System.out.println("Enter the first name and last name");
         Scanner scan = new Scanner(System.in);
